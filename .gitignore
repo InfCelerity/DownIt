@@ -6,4 +6,3 @@ __pycache__/
 frontend/node_modules/
 .workbuddy/
 frontend/*.tsbuildinfo
-/README.md
